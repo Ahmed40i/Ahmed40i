@@ -22,8 +22,6 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views" />
-
 </div>
 
 ---
